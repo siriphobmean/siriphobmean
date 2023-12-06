@@ -1,9 +1,7 @@
 Hi 👋 My name is Siriphob Poonprasit
 ====================================
 
-I'm study Computer Engineering (CPE#26) 
-
-at Suranaree University of Technology (SUT#29)
+I'm study Computer Engineering #26 at Suranaree University of Technology #29
 
 * 🌍  I'm based in Korat, Thailand
 * ✉️  You can contact me at [siriphobpps46@gmail.com](mailto:siriphobpps46@gmail.com)
