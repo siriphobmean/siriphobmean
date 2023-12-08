@@ -54,7 +54,8 @@ I'm study Computer Engineering #26 at Suranaree University of Technology #29
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 
-### 📈 Stats
+📈 Stats
+--
 <div align="left">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=siriphobmean&show_icons=true&theme=react" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphobmean&layout=compact&theme=react" />
