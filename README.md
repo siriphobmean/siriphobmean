@@ -54,12 +54,8 @@ I'm study Computer Engineering #26 at Suranaree University of Technology #29
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 
-<!--### My GitHub Stats
-<a href="https://github.com/siriphobmean" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphobmean&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
-
 ### 📈 Stats
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siriphobmean&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphobmean&layout=compact&theme=react" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=siriphobmean&show_icons=true&theme=react" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphobmean&layout=compact&theme=react" />
 </div>
