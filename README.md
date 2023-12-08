@@ -84,6 +84,7 @@ I'm study Computer Engineering #26 at Suranaree University of Technology #29
 ### 📱 Device Brands
 
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
 
 ### 🕓 Version Control
 
