@@ -6,9 +6,10 @@ I'm study Computer Engineering #26 at Suranaree University of Technology #29
 * 🌍  I'm based in Korat, Thailand
 * ✉️  You can contact me at [siriphobpps46@gmail.com](mailto:siriphobpps46@gmail.com)
 
-🏆 Github Profile Trophy
+<!--🏆 Github Profile Trophy
 --
 [![trophy](https://github-profile-trophy.vercel.app/?username=siriphobmean&no-frame=true&theme=juicyfresh)](https://github.com/siriphobmean/github-profile-trophy)
+-->
 
 💻 Languages and Tools
 --
