@@ -3,8 +3,8 @@ Hi 👋 I'm MeannY
 
 I'm study Computer Engineering #26 at Suranaree University of Technology #29
 
-* 🌍  I'm based in Korat, Thailand
-* ✉️  You can contact me at [siriphobpps46@gmail.com](mailto:siriphobpps46@gmail.com)
+<!-- * 🌍  I'm based in Korat, Thailand
+* ✉️  You can contact me at [siriphobpps46@gmail.com](mailto:siriphobpps46@gmail.com) -->
 
 <!--🏆 Github Profile Trophy
 --
@@ -26,7 +26,7 @@ I'm study Computer Engineering #26 at Suranaree University of Technology #29
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 💾 Databases
+<!-- ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🥅 Other
@@ -37,7 +37,7 @@ I'm study Computer Engineering #26 at Suranaree University of Technology #29
 
 ### 🎨 Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 📈 Stats
 --
