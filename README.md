@@ -42,6 +42,6 @@ I'm study Computer Engineering #26 at Suranaree University of Technology #29
 📈 Stats
 --
 <div align="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=siriphobmean&show_icons=true&theme=react" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphobmean&layout=compact&theme=react" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=siriphobmean&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphobmean&layout=compact&theme=react&hide_border=true" />
 </div>
