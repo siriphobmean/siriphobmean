@@ -50,9 +50,16 @@ I'm currently studying Computer Engineering #26 at Suranaree University of Techn
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
-📈 Stats
---
-<div align="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=siriphobmean&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphobmean&layout=compact&theme=react&hide_border=true" />
-</div>
+## 📈 Stats
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=siriphobmean&theme=react&show_icons=true&count_private=true&hide_border=true" />
+      <br></br>
+      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Siriphob Poonprasit" src="https://github-readme-streak-stats.herokuapp.com/?user=siriphobmean&theme=react&hide_border=true" /> 
+    </td>
+    <td width="80%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siriphobmean&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=8&hide_border=true"/>
+    </td>
+  </tr>
+</table>
