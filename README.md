@@ -1,7 +1,15 @@
 Hi 👋 I'm MeannY
 ====================================
 
-I'm study Computer Engineering #26 at Suranaree University of Technology #29
+## About Me
+I'm currently studying Computer Engineering #26 at Suranaree University of Technology #29.
+
+## Interests and Expertise
+- System Analysis and Design
+- Software Engineering
+- Software Testing
+- Reverse Engineering
+- Web Application Development
 
 <!-- * 🌍  I'm based in Korat, Thailand
 * ✉️  You can contact me at [siriphobpps46@gmail.com](mailto:siriphobpps46@gmail.com) -->
