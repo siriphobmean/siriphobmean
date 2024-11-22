@@ -44,20 +44,8 @@ I'm currently studying Computer Engineering #26 at Suranaree University of Techn
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- ### 💾 Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🥅 Other
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-### 💻 IDEs/Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🎨 Design
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
-
-## 📈 Stats
+<!-- ## 📈 Stats
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
@@ -69,4 +57,4 @@ I'm currently studying Computer Engineering #26 at Suranaree University of Techn
       <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siriphobmean&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=8&hide_border=true"/>
     </td>
   </tr>
-</table>
+</table> -->
