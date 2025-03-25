@@ -9,7 +9,6 @@ I'm currently studying Computer Engineering #26 at Suranaree University of Techn
 - Software Engineering
 - Software Testing
 - Full Stack Developer
-- Reverse Engineering
 - Web Application Development
 
 💻 Languages and Tools
