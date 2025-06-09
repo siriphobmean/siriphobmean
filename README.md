@@ -11,14 +11,18 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm currently studying Computer Engineering.
-- 💼 I'm passionate about:
+- 🎓 I'm about to graduate with a Bachelor of Engineering (B.Eng.) in Computer Engineering.
+- 💼 I'm currently working as a Full Stack Developer at the Institute of Engineering, Suranaree University of Technology. 
+- 🎯 I'm planning to continue my studies with a Master of Engineering (M.Eng.) in Telecommunication and Computer Engineering.
+- 🚀 I'm passionate about:
   - System Analysis and Design
   - Software Engineering
   - Software Testing
   - Full Stack Development
   - Web Application Development
-
+<!-- 
+- 🎓 I'm currently pursuing a Bachelor of Engineering (B.Eng.) in Computer Engineering.
+-->
 ---
 
 ## 🛠️ Tech Stack
