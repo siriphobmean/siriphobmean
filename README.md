@@ -12,7 +12,6 @@
 ## 🧠 About Me
 
 - 🎓 I'm about to graduate with a Bachelor of Engineering (B.Eng.) in ***Computer Engineering***.
-- 🎯 I'm planning to continue my studies with a Master of Engineering (M.Eng.) in ***Telecommunication and Computer Engineering***.
 - 🚀 I'm passionate about:
   - System Analysis and Design
   - Software Engineering
