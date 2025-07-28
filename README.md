@@ -15,7 +15,6 @@
 - 🚀 I'm passionate about:
   - System Analysis and Design
   - Software Engineering
-  - Software Testing
   - Full Stack Development
   - Web Application Development
 <!-- 
